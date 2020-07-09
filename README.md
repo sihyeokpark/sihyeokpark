@@ -1,16 +1,20 @@
-### Hi there 👋
+### EXON 👋
+안녕하세요! 디자인을 좋아하는 평범한 중학생 개발자 엑슨입니다!
 
-<!--
-**1-EXON/1-EXON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Using 🧪
+- C#
+- JS
+- C
+- Flutter
 
-Here are some ideas to get you started:
+## Project 🎮
+- [Discord Profile](https://github.com/1-EXON/Discord-Profile) : 자신의 디스코드 정보를 나타내는 프로그램
+- [DisHook](https://github.com/1-EXON/DisHook) : 커스텀 디스코드 웹훅 프로그램
+- [DisRPC](https://github.com/1-EXON/Discord-Profile) : 커스텀 디스코드 RPC 프로그램
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📢
+- Email : exon.indiv@gmail.com
+- Discord : EXON#0062
+
+## Team 💎
+- [Team WAVE](https://teamwv.ml)
