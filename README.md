@@ -5,6 +5,7 @@
 - C#
 - JS
 - C
+- Python
 
 ## Learning
 - Flutter
