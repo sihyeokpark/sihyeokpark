@@ -10,6 +10,7 @@
 ## Learning
 - Flutter
 - Tensorflow
+- Kotiln
 
 ## Project 🎮
 - [Discord Profile](https://github.com/1-EXON/Discord-Profile) : 자신의 디스코드 정보를 나타내는 프로그램
