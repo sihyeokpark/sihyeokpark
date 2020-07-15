@@ -10,7 +10,7 @@
 ## Learning
 - Flutter
 - Tensorflow
-- Kotiln
+- Kotlin
 
 ## Project 🎮
 - [Self-diagnosis](https://github.com/1-EXON/Self-diagnosis) : 자가진단 자동화 프로그램
