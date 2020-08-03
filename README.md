@@ -9,9 +9,7 @@
 
 #### Project 🎮
 - [Self-diagnosis](https://github.com/1-EXON/Self-diagnosis) : 자가진단 자동화 프로그램
-- [Discord Profile](https://github.com/1-EXON/Discord-Profile) : 자신의 디스코드 정보를 나타내는 프로그램
-- [DisHook](https://github.com/1-EXON/DisHook) : 커스텀 디스코드 웹훅 프로그램
-- [DisRPC](https://github.com/1-EXON/Discord-Profile) : 커스텀 디스코드 RPC 프로그램
+- [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 
 
 #### Contact 📢
 - Email : exon.indiv@gmail.com
