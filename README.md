@@ -9,7 +9,7 @@
 
 #### Project 🎮
 - [Self-diagnosis](https://github.com/1-EXON/Self-diagnosis) : 자가진단 자동화 프로그램
-- [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 
+- [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 
 #### Contact 📢
 - Email : exon.indiv@gmail.com
