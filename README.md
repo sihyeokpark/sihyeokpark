@@ -16,4 +16,4 @@
 - Discord : EXON#0062
 
 #### Team 💎
-- [Team WAVE](https://teamwv.ml)
+- [Team WAVE](https://teamwv.ml) : 팀장
