@@ -13,7 +13,7 @@
 
 #### Contact 📢
 - Email : exon.indiv@gmail.com, admin@exon.kr
-- Discord : EXON#0062
+- Discord : EXON#0721
 
 #### Team 💎
 - [Team WAVE](https://teamwv.ml) : 팀 리더
