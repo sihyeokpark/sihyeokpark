@@ -12,8 +12,8 @@
 - [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 
 #### Contact 📢
-- Email : exon.indiv@gmail.com, admin@exon.kr
-- Discord : EXON#0721
+- Email : exon.indiv@gmail.com
+- Discord : [EXON#0721](https://discord.com/users/495776817937121301)
 
 #### Team 💎
 - [Team WAVE](https://teamwv.ml) : 팀 리더
