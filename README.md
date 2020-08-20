@@ -8,6 +8,7 @@
 - Flutter, Tensorflow, Kotlin
 
 #### Project 🎮
+- [ALL CODE](https://github.com/1-EXON/All-CODE) : 모든 생활을 코드로,
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
 - [Ajegag](https://github.com/1-EXON/AjeGag) : 본격 아재 양성 프로젝트
 - [Self-diagnosis](https://github.com/1-EXON/Self-diagnosis) : 자가진단 자동화 프로그램
