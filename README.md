@@ -9,6 +9,7 @@
 - Flutter, Tensorflow, Kotlin
 
 #### Project 🎮
+- [Github Star Battle](https://github.com/1-EXON/star-battle) : 처음으로 리액트로 만든 깃허브 유저 정보 사이트
 - [This hero is mine](https://github.com/1-EXON/This-hero-is-mine) : 옵치 칼픽하려고 만든 오토마우스
 - [Google Dark](https://github.com/1-EXON/Google-Dark) : 엑슨 입맛을 따른 구글 다크 
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
