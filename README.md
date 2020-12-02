@@ -13,8 +13,6 @@
 - [This hero is mine](https://github.com/1-EXON/This-hero-is-mine) : 옵치 칼픽하려고 만든 오토마우스
 - [Google Dark](https://github.com/1-EXON/Google-Dark) : 엑슨 입맛을 따른 구글 다크 
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
-- [Ajegag](https://github.com/1-EXON/AjeGag) : 본격 아재 양성 프로젝트
-- [Self-diagnosis](https://github.com/1-EXON/Self-diagnosis) : 자가진단 자동화 프로그램
 - [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 - [ComIn](https://github.com/1-EXON/ComIn) : 컴퓨터 사양 프로그램
 
