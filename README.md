@@ -9,12 +9,10 @@
 - Flutter, Tensorflow, Kotlin
 
 #### Project 🎮
-- [Github Star Battle](https://github.com/1-EXON/star-battle) : 처음으로 리액트로 만든 깃허브 유저 정보 사이트
-- [This hero is mine](https://github.com/1-EXON/This-hero-is-mine) : 옵치 칼픽하려고 만든 오토마우스
-- [Google Dark](https://github.com/1-EXON/Google-Dark) : 엑슨 입맛을 따른 구글 다크 
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
 - [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 - [ComIn](https://github.com/1-EXON/ComIn) : 컴퓨터 사양 프로그램
++ [그 외 많은 프로젝트 보기](https://github.com/1-EXON?tab=repositories)
 
 #### Contact 📢
 - Email : exon.indiv@gmail.com
