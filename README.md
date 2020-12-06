@@ -9,6 +9,7 @@
 - Flutter, Tensorflow, Kotlin
 
 #### Project 🎮
+- [Lime](https://github.com/1-EXON/Lime) : 라임(Rhyme) 체크 
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
 - [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 - [ComIn](https://github.com/1-EXON/ComIn) : 컴퓨터 사양 프로그램
