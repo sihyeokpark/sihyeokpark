@@ -17,7 +17,7 @@
 
 #### Contact 📢
 - Email : exon.indiv@gmail.com
-- Discord : [EXON#0721](https://discord.com/users/774607106732326922)
+- Discord : [EXON#3160](https://discord.com/users/774607106732326922)
 
 #### Team 💎
 - [Team WAVE](https://teamwv.ml) : 팀 리더
