@@ -18,6 +18,7 @@
 #### Contact 📢
 - Email : exon.indiv@gmail.com
 - Discord : [EXON#3160](https://discord.com/users/774607106732326922)
+- Notion : [바로가기](https://blog.exon.kr)
 
 #### Team 💎
 - [Team WAVE](https://teamwv.ml) : 팀 리더
