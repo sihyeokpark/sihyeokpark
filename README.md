@@ -11,7 +11,6 @@
 #### Project 🎮
 - [SkyblockReservationBot](https://github.com/1-EXON/SkyblockReservationBot) : 하이픽셀 스카이블럭 경매 예약 봇
 - [GameWatcherBot](https://github.com/1-EXON/GameWatcherBot) : 특정 유저가 게임을 시작할 시 알려주는 디스코드 봇
-- [SkyCalc](https://github.com/1-EXON/SkyCalc) : 하이픽셀 스카이블럭 EHP, 데미지 계산기
 - [DarkAlgo](https://github.com/1-EXON/DarkAlgo) : 다크다크한 백준 다크 테마
 - [Easycord](https://github.com/1-EXON/EasyCord) : 디스코드의 기능을 더 쉽고 편하게 사용 가능한 프로그램 모음집
 - [ComIn](https://github.com/1-EXON/ComIn) : 컴퓨터 사양 프로그램
