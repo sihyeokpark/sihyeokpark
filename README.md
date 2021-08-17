@@ -6,7 +6,7 @@
 - C#, JS, TS, React, C, Python
 
 #### Learning
-- Flutter, Tensorflow, Kotlin
+- Algorithm, JS, HTML, CSS, TS
 
 #### Project 🎮
 - [SkyblockReservationBot](https://github.com/1-EXON/SkyblockReservationBot) : 하이픽셀 스카이블럭 경매 예약 봇
