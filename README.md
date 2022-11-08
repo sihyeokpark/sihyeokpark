@@ -11,7 +11,7 @@
 - Algorithm, Deep Learning, Nest.js
 
 #### Awards 🥇
-- 2022 한국코드페어 해커톤 본선 진출 (현재 진행 중..)
+- 2022 한국코드페어 해커톤 대상
 
 #### Contact 📢
 - Web : https://exon.kr
