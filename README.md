@@ -10,8 +10,7 @@
 - 2022 한국코드페어 해커톤 대상
 
 #### Contact 📢
-- Web : https://exon.kr
+- Portfolio : https://exon.kr
 - Email : exon.indiv@gmail.com
 - Discord : [EXON#3160](https://discord.com/users/774607106732326922)
-- Notion : [바로가기](https://www.notion.so/7f7538a11fe04e1fa2a98c12cf7065ed)
 - Solved.ac : [exon](https://solved.ac/profile/exon)
