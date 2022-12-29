@@ -4,10 +4,10 @@
 
 #### Education 🏫
 - Central Christian Academy 14th (2020~2022)
-- Korea Digital Media High School HD 22th (2023~)
+- Korea Digital Media High School HD 22nd (2023~)
 
 #### Awards 🥇
-- 2022 한국코드페어 해커톤 대상
+- 2022 한국코드페어 해커톤  대상
 
 #### Contact 📢
 - Portfolio : https://exon.kr
