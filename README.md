@@ -13,4 +13,5 @@
 - Portfolio : https://exon.kr
 - Email : exon.indiv@gmail.com
 - Discord : [EXON#3160](https://discord.com/users/774607106732326922)
+- Tistory : [exon001](https://exon001.tistory.com/)
 - Solved.ac : [exon](https://solved.ac/profile/exon)
