@@ -1,4 +1,4 @@
-### [EXON](https://exon.kr) 👋
+### EXON (박시혁) 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-EXON%2F1-EXON&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=+%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
