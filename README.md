@@ -9,6 +9,7 @@
 - Korea Digital Media High School HD 22nd (2023~)
 
 #### Awards 🥇
+- 2023 구름 하이스쿨 알고리즘 팀 챌린지 대상
 - 2022 한국코드페어 해커톤  대상
 
 #### Contact 📢
