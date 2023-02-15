@@ -7,7 +7,7 @@ I'm Sihyeok Park, a junior at Korea Digital Media High School.
  
 #### Education 🏫
 - Central Christian Academy 14th (2020~2022)
-- Korea Digital Media High School HD 22nd (2023~)
+- Korea Digital Media High School Hacking Defense Class 22nd (2023~)
 
 #### Awards 🥇
 - 2023 Goorm High School Algorithm Team Challenge 1st
