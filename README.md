@@ -4,7 +4,7 @@ I'm Sihyeok Park, a junior at Korea Digital Media High School.
  
 [If you want to know me more?](https://exon.kr)
  
-[\<Archive Project when I made at junior high\>](https://github.com/EXON-Archive-Junior-High)
+[\<Archive Project when I made at junior high\>]([https://github.com/EXON-Archive-Junior-High](https://github.com/orgs/EXON-Archive-Junior-High/repositories))
  
 #### Education 🏫
 - Central Christian Academy 14th (2020~2022)
