@@ -1,5 +1,5 @@
 ## I'm [EXON](https://exon.kr) (Sihyeok Park) 👋
-Hey there! I'm a 15 year old developer from South Korea.  
+Hey there! I'm a 15yo developer from South Korea.  
 I'm Sihyeok Park, a junior at Korea Digital Media High School.  
  
 [If you want to know me more?](https://exon.kr)
