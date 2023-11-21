@@ -7,7 +7,7 @@ Hey there! I'm a 16yo developer from South Korea.
  
 #### Education 🏫
 - Central Christian Academy 14th (2020~2022)
-- Korea Digital Media High School Hacking Defense Class 22th (2023~)
+- Korea Digital Media High School Hacking Defense Class 22nd (2023~)
 
 #### Awards 🥇
 - 2023 Goorm High School Algorithm Team Challenge 1st
