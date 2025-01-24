@@ -1,5 +1,5 @@
 ## I'm [EXON](https://exon.kr) (Sihyeok Park) 👋
-Hey there! I'm a 16yo developer from South Korea.
+Hey there! I'm a 17yo developer from South Korea.
  
 [If you want to know me more?](https://exon.kr)
  
